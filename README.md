@@ -7,3 +7,5 @@
 3rd edit on local file (clone) wrong action
 
 4th edit - new branch 1
+
+5th edit after branch 1 merge
