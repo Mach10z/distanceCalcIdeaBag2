@@ -6,6 +6,13 @@
 
 3rd edit on local file (clone) wrong action
 
-4th edit - new branch 1
+4th edit - new branch 1 -same branch1
 
-final merge of origin and branch 1 on local repo
+5th edit after branch 1 merge
+
+6th edit branch 2 - same branch 1
+7th edit branch 3 - same branch 1
+new branch 11
+
+
+
